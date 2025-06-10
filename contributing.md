@@ -1,2 +1,2 @@
-#🤝 Contributing
+# 🤝 Contributing
 Contributions are welcome and encouraged! Whether it's fixing a bug, improving the design, adding new features, or enhancing the documentation, every bit of help makes a difference. If you’d like to contribute, please fork the repository, make your changes in a separate branch, and submit a pull request. Make sure your code is clean, readable, and well-documented. For larger changes, feel free to open an issue first to discuss your idea. Let’s build something great together!
